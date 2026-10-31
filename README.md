@@ -48,8 +48,8 @@
 
 - **Author & Architect:** Kuldeep Prajapati
 - **Publisher:** TitanNet Systems Architecture
-- **Product Version:** 10.0.0.0
-- **Installer Package:** TitanNet_Setup_v1.zip (`TitanNet_Setup_v10.exe`)
+- **Product Version:** 1.0.0.0
+- **Installer Package:** TitanNet_Setup_v1.zip (`TitanNet_Setup_v1.exe`)
 - **Portable Package:** TitanNet_Portable_v1.zip (`TitanNet.exe`)
 - **SHA-256 Digital Fingerprint (Core Binary):** `02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15`
 - **Official Scan Report:** [Click Here to View Live VirusTotal Security Analysis](https://www.virustotal.com/gui/file/02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15)
