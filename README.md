@@ -24,8 +24,8 @@
 
 ## Direct One-Click Downloads (Zero Browser Warnings)
 
-* **Commercial Setup Wizard (Recommended):** [Click Here to Download TitanNet_Setup_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/tag/v10.0.0) *(Extract the ZIP and run `TitanNet_Setup_v10.exe`)*
-* **Standalone Portable Package:** [Click Here to Download TitanNet_Portable_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/tag/v10.0.0) *(Extract the ZIP, right-click `TitanNet.exe`, and select Run as administrator)*
+* **Commercial Setup Wizard (Recommended):** [Click Here to Download TitanNet_Setup_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip) *(Extract the ZIP and run `TitanNet_Setup_v10.exe`)*
+* **Standalone Portable Package:** [Click Here to Download TitanNet_Portable_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip) *(Extract the ZIP, right-click `TitanNet.exe`, and select Run as administrator)*
 
 ## Executive Overview
 
