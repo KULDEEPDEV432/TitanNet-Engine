@@ -25,7 +25,7 @@
 ## Direct One-Click Downloads
 
 * **Automated Commercial Setup Wizard:** [Click Here to Download TitanNet_Setup_v10.exe](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.exe)
-* **Standalone Portable Application:** [Click Here to Download TitanNet.exe](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet.exe)
+* **Standalone Portable Application:** [Click Here to Download TitanNet.exe](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.exe)
 
 ## Executive Overview
 
