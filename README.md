@@ -74,4 +74,9 @@ The standalone executable (`TitanNet.exe`) and setup package (`TitanNet_Setup_v1
 - **Windows Defender Engine:** `100% Clean` (Zero Detections)
 - **Publisher Metadata:** `TitanNet Systems Architecture` (Embedded via Windows `VERSIONINFO`)
 - **Verified Binary SHA-256:** `02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15`
-- **
+- **Live Multi-Engine Audit:** [View Official VirusTotal Verification Report](https://www.virustotal.com/gui/file/02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15)
+
+**Hash Verification Command (Windows PowerShell / CMD):**
+Users can independently verify the cryptographic integrity of the downloaded binary before execution by running:
+```cmd
+certutil -hashfile TitanNet.exe SHA256
