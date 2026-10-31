@@ -3,8 +3,8 @@
 # TitanNet Autonomous AI Engine (v10.0)
 ### Next-Generation C++20 Network Telemetry, Packet Inspection & Kernel Self-Defense Suite
 
-[![Download Installer](https://img.shields.io/badge/⬇_DOWNLOAD_INSTALLER-TitanNet__Setup__v10.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.exe)
-[![Download Portable](https://img.shields.io/badge/⬇_PORTABLE_EXE-TitanNet.exe-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet.exe)
+[![Download Installer ZIP](https://img.shields.io/badge/⬇_DOWNLOAD_INSTALLER_(ZIP)-TitanNet__Setup__v10.zip-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip)
+[![Download Portable ZIP](https://img.shields.io/badge/⬇_PORTABLE_VERSION_(ZIP)-TitanNet__Portable__v10.zip-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Portable_v10.zip)
 
 <br/>
 
@@ -18,14 +18,14 @@
   <b>Pure Native Performance</b> • <b>Zero Console Overhead</b> • <b>Real-Time Raw Socket Auditing</b> • <b>RAM Code Integrity</b>
 </p>
 
-<img width="100%" alt="Screenshot 2026-10-31 113622" src="https://github.com/user-attachments/assets/6a4e2664-e4c0-4d11-aac9-d1d0f7b8f005" />
+<img width="1917" height="1003" alt="Screenshot 2026-10-31 113622" src="https://github.com/user-attachments/assets/03eec4ad-49b0-4277-a5d1-8bfb93ab0966" />
 
 </div>
 
-## Direct One-Click Downloads
+## Direct One-Click Downloads (Zero Browser Warnings)
 
-* **Automated Commercial Setup Wizard:** [Click Here to Download TitanNet_Setup_v10.exe](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.exe)
-* **Standalone Portable Application:** [Click Here to Download TitanNet.exe](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.exe)
+* **Commercial Setup Wizard (Recommended):** [Click Here to Download TitanNet_Setup_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip) *(Extract the ZIP and run `TitanNet_Setup_v10.exe`)*
+* **Standalone Portable Package:** [Click Here to Download TitanNet_Portable_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip) *(Extract the ZIP, right-click `TitanNet.exe`, and select Run as administrator)*
 
 ## Executive Overview
 
@@ -51,15 +51,15 @@
 - **Author & Architect:** Kuldeep Prajapati
 - **Publisher:** TitanNet Systems Architecture
 - **Product Version:** 10.0.0.0
-- **Automated Installer:** TitanNet_Setup_v10.exe
-- **Standalone Binary:** TitanNet.exe
-- **SHA-256 Digital Fingerprint:** 02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15
+- **Installer Package:** TitanNet_Setup_v10.zip (`TitanNet_Setup_v10.exe`)
+- **Portable Package:** TitanNet_Portable_v10.zip (`TitanNet.exe`)
+- **SHA-256 Digital Fingerprint (Core Binary):** `02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15`
 - **Official Scan Report:** [Click Here to View Live VirusTotal Security Analysis](https://www.virustotal.com/gui/file/02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15)
 
 ## Installation & Deployment Guide
 
-1. **Setup Wizard:** Click the green **DOWNLOAD INSTALLER** button at the top of this page to download and run **TitanNet_Setup_v10.exe**.
-2. **Portable Binary:** Click the blue **PORTABLE EXE** button to download **TitanNet.exe**, right-click, and select **Run as administrator**.
+1. **Setup Wizard:** Click the green **DOWNLOAD INSTALLER (ZIP)** button at the top, extract **`TitanNet_Setup_v10.zip`**, and run **`TitanNet_Setup_v10.exe`** to install with Desktop shortcuts.
+2. **Portable Binary:** Click the blue **PORTABLE VERSION (ZIP)** button, extract **`TitanNet.exe`**, right-click, and select **Run as administrator**.
 3. **System Requirements:** Windows 10 or Windows 11 (64-bit x64), DirectX-compatible GPU, and Administrator privileges for Raw Socket packet inspection.
 
 <div align="center">
