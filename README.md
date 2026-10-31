@@ -65,3 +65,11 @@
 <div align="center">
   <sub>Copyright © 2026 <b>Kuldeep Prajapati (TitanNet Systems Architecture)</b>. All Rights Reserved.</sub>
 </div>
+
+## Repository Structure & Source Code Policy
+
+This repository serves as the **Official Binary Distribution, Public SDK Header (`include/`), and Cryptographic Verification (`src/`) Portal** for the **TitanNet Autonomous AI Engine**. Because TitanNet v10.0 is protected under a **Proprietary Commercial EULA**, the core 10-phase engine implementation is distributed exclusively as pre-compiled, cryptographically audited Windows x64 binaries via **GitHub Releases**.
+
+### How to Bypass Windows SmartScreen on Fresh Downloads
+1. Download **`TitanNet_Setup_v10.zip`** or **`TitanNet_Portable_v10.zip`** from the **Releases** section.
+2. Right-click the downloaded `.zip` file, click **Properties**, check the **Unblock** box at the bottom, and click **Apply** before extracting.
