@@ -44,16 +44,14 @@
 | **Phase 09** | **TitanVeritas** | 64-bit FNV-1a rolling hash ground-truth auditor | VERIFIED |
 | **Phase 10** | **TitanAegis** | Application memory checksum and process integrity verification | ACTIVE |
 
-## Official Security & Cryptographic Verification
+## Official Detail
 
 - **Author & Architect:** Kuldeep Prajapati
 - **Publisher:** TitanNet Systems Architecture
 - **Product Version:** 1.0.0.0
 - **Installer Package:** TitanNet_Setup_v1.zip (`TitanNet_Setup_v1.exe`)
 - **Portable Package:** TitanNet_Portable_v1.zip (`TitanNet.exe`)
-- **SHA-256 Digital Fingerprint (Core Binary):** `02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15`
-- **Official Scan Report:** [Click Here to View Live VirusTotal Security Analysis](https://www.virustotal.com/gui/file/02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15)
-
+  
 ## Installation & Deployment Guide
 
 1. **Setup Wizard:** Click the green **DOWNLOAD INSTALLER (ZIP)** button at the top, extract **`TitanNet_Setup_v1.zip`**, and run **`TitanNet_Setup_v1.exe`** to install with Desktop shortcuts.
@@ -64,17 +62,6 @@
 
 This repository serves as the **Official Release Portal, Public C++20 SDK Header (`include/TitanNet_SDK.h`), and SHA-256 Verification Utility (`src/TitanNet_Verifier.cpp`)** for the **TitanNet Autonomous AI Engine** under the **Proprietary Commercial EULA**.
 
-## 🛡️ Microsoft Defender & WDSI Whitelisting Status
 
-The standalone executable (`TitanNet.exe`) and setup package (`TitanNet_Setup_v1.exe`) have been submitted and verified through **Microsoft Security Intelligence (WDSI)** for false-positive clearance and Windows Defender SmartScreen hash registration.
 
-- **Microsoft WDSI Status:** Verified Clean (`No malware detected` — SHA-256 Whitelisted)
-- **Windows Defender Engine:** `100% Clean` (Zero Detections)
-- **Publisher Metadata:** `TitanNet Systems Architecture` (Embedded via Windows `VERSIONINFO`)
-- **Verified Binary SHA-256:** `02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15`
-- **Live Multi-Engine Audit:** [View Official VirusTotal Verification Report](https://www.virustotal.com/gui/file/02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15)
 
-**Hash Verification Command (Windows PowerShell / CMD):**
-Users can independently verify the cryptographic integrity of the downloaded binary before execution by running:
-```cmd
-certutil -hashfile TitanNet.exe SHA256
