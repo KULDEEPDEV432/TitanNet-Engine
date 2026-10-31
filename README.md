@@ -60,7 +60,7 @@
 
 ## Repository Structure & SDK Layout
 
-This repository serves as the **Official Release Portal, Public C++20 SDK Header (`include/TitanNet_SDK.h`), and SHA-256 Verification Utility (`src/TitanNet_Verifier.cpp`)** for the **TitanNet Autonomous AI Engine** under the **Proprietary Commercial EULA**.
+This repository serves as the **Official Release Portal, Public C++20 SDK Header (`include/TitanNet_SDK.h`), and SHA-256 Verification Utility (`src/TitanNet_Verifier.cpp`)** for the **TitanNet Autonomous AI Engine** under the **MIT License**.
 
 
 
