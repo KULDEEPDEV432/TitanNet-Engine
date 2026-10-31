@@ -1,6 +1,6 @@
 <div align="center">
 
-# TitanNet Autonomous AI Engine (v10.0)
+# TitanNet Autonomous AI Engine (v1.0)
 ### Next-Generation C++20 Desktop Network Telemetry & DirectX Visualization Suite
 
 [![Download Installer ZIP](https://img.shields.io/badge/⬇_DOWNLOAD_INSTALLER_(ZIP)-TitanNet__Setup__v10.zip-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip)
@@ -27,7 +27,7 @@
 - **Download are Available On Github Release section ** 
 ## Executive Overview
 
-**TitanNet v10.0** is an enterprise-grade, standalone C++20 desktop networking and telemetry command center engineered for 64-bit Windows architectures. Designed with a pure Windows GUI subsystem, it delivers hardware-accelerated **60 FPS DirectX telemetry**, real-time interface monitoring, multi-link throughput tracking, and cryptographic state verification.
+**TitanNet v1.0** is an enterprise-grade, standalone C++20 desktop networking and telemetry command center engineered for 64-bit Windows architectures. Designed with a pure Windows GUI subsystem, it delivers hardware-accelerated **60 FPS DirectX telemetry**, real-time interface monitoring, multi-link throughput tracking, and cryptographic state verification.
 
 ## Complete 10-Phase Engine Architecture
 
@@ -49,14 +49,14 @@
 - **Author & Architect:** Kuldeep Prajapati
 - **Publisher:** TitanNet Systems Architecture
 - **Product Version:** 10.0.0.0
-- **Installer Package:** TitanNet_Setup_v10.zip (`TitanNet_Setup_v10.exe`)
-- **Portable Package:** TitanNet_Portable_v10.zip (`TitanNet.exe`)
+- **Installer Package:** TitanNet_Setup_v1.zip (`TitanNet_Setup_v10.exe`)
+- **Portable Package:** TitanNet_Portable_v1.zip (`TitanNet.exe`)
 - **SHA-256 Digital Fingerprint (Core Binary):** `02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15`
 - **Official Scan Report:** [Click Here to View Live VirusTotal Security Analysis](https://www.virustotal.com/gui/file/02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15)
 
 ## Installation & Deployment Guide
 
-1. **Setup Wizard:** Click the green **DOWNLOAD INSTALLER (ZIP)** button at the top, extract **`TitanNet_Setup_v10.zip`**, and run **`TitanNet_Setup_v10.exe`** to install with Desktop shortcuts.
+1. **Setup Wizard:** Click the green **DOWNLOAD INSTALLER (ZIP)** button at the top, extract **`TitanNet_Setup_v1.zip`**, and run **`TitanNet_Setup_v1.exe`** to install with Desktop shortcuts.
 2. **Portable Binary:** Click the blue **PORTABLE VERSION (ZIP)** button, extract **`TitanNet.exe`**, and launch the application directly.
 3. **System Requirements:** Windows 10 or Windows 11 (64-bit x64) and a DirectX-compatible GPU for 60 FPS hardware rendering.
 
@@ -66,7 +66,7 @@ This repository serves as the **Official Release Portal, Public C++20 SDK Header
 
 ## 🛡️ Microsoft Defender & WDSI Whitelisting Status
 
-The standalone executable (`TitanNet.exe`) and setup package (`TitanNet_Setup_v10.exe`) have been submitted and verified through **Microsoft Security Intelligence (WDSI)** for false-positive clearance and Windows Defender SmartScreen hash registration.
+The standalone executable (`TitanNet.exe`) and setup package (`TitanNet_Setup_v1.exe`) have been submitted and verified through **Microsoft Security Intelligence (WDSI)** for false-positive clearance and Windows Defender SmartScreen hash registration.
 
 - **Microsoft WDSI Status:** Verified Clean (`No malware detected` — SHA-256 Whitelisted)
 - **Windows Defender Engine:** `100% Clean` (Zero Detections)
