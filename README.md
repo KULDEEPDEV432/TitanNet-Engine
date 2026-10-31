@@ -1,6 +1,6 @@
 <div align="center">
 
-# TitanNet Autonomous AI Engine (v1.0)
+# TitanNet Autonomous  Engine (v1.0)
 ### Next-Generation C++20 Desktop Network Telemetry & DirectX Visualization Suite
 
 [![Download Installer ZIP](https://img.shields.io/badge/⬇_DOWNLOAD_INSTALLER_(ZIP)-TitanNet__Setup__v10.zip-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip)
