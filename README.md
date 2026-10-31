@@ -22,11 +22,9 @@
 
 </div>
 
-## Direct One-Click Downloads
+## Downloads
 
-- **Commercial Setup Wizard (Recommended):** [Click Here to Download TitanNet_Setup_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Setup_v10.zip)
-- **Standalone Portable Package:** [Click Here to Download TitanNet_Portable_v10.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v10.0.0/TitanNet_Portable_v10.zip)
-
+- **Download are Available On Github Release section ** 
 ## Executive Overview
 
 **TitanNet v10.0** is an enterprise-grade, standalone C++20 desktop networking and telemetry command center engineered for 64-bit Windows architectures. Designed with a pure Windows GUI subsystem, it delivers hardware-accelerated **60 FPS DirectX telemetry**, real-time interface monitoring, multi-link throughput tracking, and cryptographic state verification.
