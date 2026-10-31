@@ -52,4 +52,4 @@ Every build of **TitanNet** is compiled cleanly from native C++20 source code us
 * **Automated Installer:** `TitanNet_Setup_v10.exe`
 * **SHA-256 Digital Fingerprint:**
   ```text
-  02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15
+ https://www.virustotal.com/gui/file/02598dcaec0e8c2f013d9b515165ad6f76c2ccc06842854c0295ea58ad6b2e15
