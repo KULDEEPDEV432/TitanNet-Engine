@@ -44,85 +44,6 @@
 6. **💻 Official Windows Installer & Installed Apps Support:**
    Setup wizard ke zariye `Program Files` mein install hota hai, Desktop par official Windows Security Shield icon wala shortcut banata hai, aur Windows ke `Installed Apps` mein register hokar ek click mein uninstallation ki suvidha deta hai.
 
----
-
-## Complete 17-Phase Enterprise Engine Architecture
-
-| Phase | Core Module | Primary System Capability | Status |
-| :--- | :--- | :--- | :--- |
-| **Phase 01** | **TitanRadar** | Network topology discovery and socket enumeration | ACTIVE |
-| **Phase 02** | **TitanShield** | Real-time Winsock packet header inspection and traffic metrics | ACTIVE |
-| **Phase 03** | **TitanFusion** | Multi-source telemetry stream synchronization | ACTIVE |
-| **Phase 04** | **TitanUI** | Pure 60 FPS DirectX GPU Command Center & Setup Wizard | ACTIVE |
-<img width="1906" height="996" alt="Screenshot 2026-11-04 133342" src="https://github.com/user-attachments/assets/3f8bf73a-f22b-43dc-9d3c-e0aef8da81fe" />
-</div>
-
-## Direct One-Click Downloads
-
-- **Commercial Setup Wizard (Recommended):** [Click Here to Download TitanNet.v1.0.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v1.0.0/TitanNet.v1.0.zip)
-- **Standalone Portable Package:** [Click Here to Download TitanNet_Portable_v1.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v1.0.0/TitanNet.v1.0.zip)
-
-## Executive Overview
-
-**TitanNet v1.0** is an enterprise-grade, standalone C++20 desktop networking and telemetry command center engineered for 64-bit Windows architectures. Designed with a pure Windows GUI subsystem, it delivers hardware-accelerated **60 FPS DirectX telemetry**, real-time network interface monitoring, **Wi-Fi and Ethernet internet speed combining (Multi-Link Bonding)**, cryptographic state verification, and Windows Filtering Platform (WFP) kernel protection.
-
----
-
-## 🚀 Main Features (Aasaan Bhasha Mein)
-
-1. **🌐 Wi-Fi & Ethernet Speed Combiner (Multi-Link Bonding):**
-   Agar aapke PC mein Wi-Fi aur LAN/Ethernet dono jude hain, toh yeh app Windows OS ke kernel routes ko adjust karke dono ka internet ek saath use karne mein madad karti hai aur ek connection kharab hone par turant doosre par switch (failover) ho jati hai.
-2. **⚡ 60 FPS DirectX GPU Interface:**
-   Bina kisi lag ya hanging ke bilkul smooth, high-performance DirectX graphics par live network speed aur graphs dikhata hai.
-3. **🛡️ WFP Kernel Firewall & Tracker Shield:**
-   Windows ke official kernel network driver ka use karke kharab IPs aur unwanted packets ko block karta hai.
-4. **🔍 Live OS DNS & Website Domain Inspector:**
-   Background mein Windows DNS Cache aur TLS SNI read karke batata hai ki aapke PC ka kaun sa app kis website ya server (`google.com`, `facebook.com` etc.) se data bhej raha hai.
-5. **🔐 WinVerifyTrust & AMSI EDR Security:**
-   Har chal rahe software ki `.exe` file par Microsoft ka digital signature check karta hai taaki koi bhi fake ya malicious app aapke network ko nuksan na pahuncha sake.
-6. **💻 Official Windows Installer & Installed Apps Support:**
-   Setup wizard ke zariye `Program Files` mein install hota hai, Desktop par official Windows Security Shield icon wala shortcut banata hai, aur Windows ke `Installed Apps` mein register hokar ek click mein uninstallation ki suvidha deta hai.
-
----
-
-## Complete 17-Phase Enterprise Engine Architecture
-
-| Phase | Core Module | Primary System Capability | Status |
-| :--- | :--- | :--- | :--- |
-| **Phase 01** | **TitanRadar** | Network topology discovery and socket enumeration | ACTIVE |
-| **Phase 02** | **TitanShield** | Real-time Winsock packet header inspection and traffic metrics | ACTIVE |
-| **Phase 03** | **TitanFusion** | Multi-source telemetry stream synchronization | ACTIVE |
-| **Phase 04** | **TitanUI** | Pure 60 FPS DirectX GPU Command Center & Setup Wizard | ACTIVE |t Telemetry</b> • <b>WinVerifyTrust EDR</b>
-</p>
-
-<img width="1906" height="996" alt="Screenshot 2026-11-04 133342" src="https://github.com/user-attachments/assets/3f8bf73a-f22b-43dc-9d3c-e0aef8da81fe" />
-</div>
-
-## Direct One-Click Downloads
-
-- **Commercial Setup Wizard (Recommended):** [Click Here to Download TitanNet.v1.0.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v1.0.0/TitanNet.v1.0.zip)
-- **Standalone Portable Package:** [Click Here to Download TitanNet_Portable_v1.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v1.0.0/TitanNet.v1.0.zip)
-
-## Executive Overview
-
-**TitanNet v1.0** is an enterprise-grade, standalone C++20 desktop networking and telemetry command center engineered for 64-bit Windows architectures. Designed with a pure Windows GUI subsystem, it delivers hardware-accelerated **60 FPS DirectX telemetry**, real-time network interface monitoring, **Wi-Fi and Ethernet internet speed combining (Multi-Link Bonding)**, cryptographic state verification, and Windows Filtering Platform (WFP) kernel protection.
-
----
-
-## 🚀 Main Features (Aasaan Bhasha Mein)
-
-1. **🌐 Wi-Fi & Ethernet Speed Combiner (Multi-Link Bonding):**
-   Agar aapke PC mein Wi-Fi aur LAN/Ethernet dono jude hain, toh yeh app Windows OS ke kernel routes ko adjust karke dono ka internet ek saath use karne mein madad karti hai aur ek connection kharab hone par turant doosre par switch (failover) ho jati hai.
-2. **⚡ 60 FPS DirectX GPU Interface:**
-   Bina kisi lag ya hanging ke bilkul smooth, high-performance DirectX graphics par live network speed aur graphs dikhata hai.
-3. **🛡️ WFP Kernel Firewall & Tracker Shield:**
-   Windows ke official kernel network driver ka use karke kharab IPs aur unwanted packets ko block karta hai.
-4. **🔍 Live OS DNS & Website Domain Inspector:**
-   Background mein Windows DNS Cache aur TLS SNI read karke batata hai ki aapke PC ka kaun sa app kis website ya server (`google.com`, `facebook.com` etc.) se data bhej raha hai.
-5. **🔐 WinVerifyTrust & AMSI EDR Security:**
-   Har chal rahe software ki `.exe` file par Microsoft ka digital signature check karta hai taaki koi bhi fake ya malicious app aapke network ko nuksan na pahuncha sake.
-6. **💻 Official Windows Installer & Installed Apps Support:**
-   Setup wizard ke zariye `Program Files` mein install hota hai, Desktop par official Windows Security Shield icon wala shortcut banata hai, aur Windows ke `Installed Apps` mein register hokar ek click mein uninstallation ki suvidha deta hai.
 
 ---
 
@@ -156,9 +77,6 @@
 2. **Portable Binary:** Click the blue **PORTABLE VERSION (ZIP)** button, extract **`TitanNet.exe`**, and launch the application directly.
 3. **System Requirements:** Windows 10 or Windows 11 (64-bit x64) and a DirectX-compatible GPU for 60 FPS hardware rendering.
 
-## Repository Structure & SDK Layout
-
-This repository serves as the **Official Release Portal, Public C++20 SDK Header (`include/TitanNet_SDK.h`), and SHA-256 Verification Utility (`src/TitanNet_Verifier.cpp`)** for the **TitanNet Autonomous AI Engine** under the **MIT LICENSE**.
 
 
 
