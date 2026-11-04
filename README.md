@@ -23,9 +23,6 @@
 - **Pre-Compiled Releases:** Official installer and portable packages are available on the [Releases](../../releases) page.
 - **Build from Source:** All C++20 source files are included in this repository for users who prefer to compile and run the application locally.
  
- ## Realese Page link
-
-Pre-compiled binaries are available on the official [Releases](../../releases) page. Complete source files are also provided in this repository for compiling and running the project directly from source.
 
 ## Executive Overview
 
