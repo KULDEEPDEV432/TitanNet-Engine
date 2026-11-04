@@ -79,5 +79,17 @@
 3. **System Requirements:** Windows 10 or Windows 11 (64-bit x64) and a DirectX-compatible GPU for 60 FPS hardware rendering.
 
 
+## 👨‍💻 Developer & Project Details
+
+- **Application:** TitanNet Autonomous Engine (`TitanNet.v1.0`)
+- **Developer & System Architect:** Kuldeep Prajapati
+- **Publisher:** TitanNet Systems Architecture
+- **Architecture & Language:** Native C++20 (Windows x64 DirectX GUI)
+- **GitHub:** [github.com/KULDEEPDEV432](https://github.com/KULDEEPDEV432)
+
+
+
+                               - **Copyright:** © 2026 TitanNet Systems Architecture. All rights reserved.
+
 
 
