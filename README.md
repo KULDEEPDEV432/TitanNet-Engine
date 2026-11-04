@@ -18,10 +18,14 @@
 <img width="1906" height="996" alt="Screenshot 2026-11-04 133342" src="https://github.com/user-attachments/assets/3f8bf73a-f22b-43dc-9d3c-e0aef8da81fe" />
 </div>
 
-## Direct One-Click Downloads
+## Downloads & Build Options
 
-- **Commercial Setup Wizard (Recommended):** [Click Here to Download TitanNet.v1.0.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v1.0.0/TitanNet.v1.0.zip)
-- **Standalone Portable Package:** [Click Here to Download TitanNet_Portable_v1.zip](https://github.com/KULDEEPDEV432/TitanNet-AI-Engine/releases/download/v1.0.0/TitanNet.v1.0.zip)
+- **Pre-Compiled Releases:** Official installer and portable packages are available on the [Releases](../../releases) page.
+- **Build from Source:** All C++20 source files are included in this repository for users who prefer to compile and run the application locally.
+ 
+ ## Realese Page link
+
+Pre-compiled binaries are available on the official [Releases](../../releases) page. Complete source files are also provided in this repository for compiling and running the project directly from source.
 
 ## Executive Overview
 
