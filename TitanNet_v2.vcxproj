@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{655e5309-abf3-45a9-aeb4-d651d9441d1c}</ProjectGuid>
+    <RootNamespace>TitanNetv2</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(ProjectDir);$(ProjectDir)include;$(ProjectDir)include\Core;$(ProjectDir)include\AI;$(ProjectDir)include\Network;$(ProjectDir)include\UI;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <Optimization>MaxSpeed</Optimization>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <CETCompat>true</CETCompat>
+      <AdditionalDependencies>d2d1.lib;dwrite.lib;ws2_32.lib;iphlpapi.lib;fwpuclnt.lib;rpcrt4.lib;bcrypt.lib;wintrust.lib;crypt32.lib;amsi.lib;taskschd.lib;comsupp.lib;ole32.lib;oleaut32.lib;shell32.lib;advapi32.lib;user32.lib;gdi32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
+      <UACExecutionLevel>RequireAdministrator</UACExecutionLevel>
+    </Link>
+    <Manifest>
+      <AdditionalManifestFiles>$(ProjectDir)assets\app.manifest %(AdditionalManifestFiles)</AdditionalManifestFiles>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>$(ProjectDir);$(ProjectDir)include;$(ProjectDir)include\Core;$(ProjectDir)include\AI;$(ProjectDir)include\Network;$(ProjectDir)include\UI;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <CETCompat>true</CETCompat>
+      <AdditionalDependencies>d2d1.lib;dwrite.lib;ws2_32.lib;iphlpapi.lib;fwpuclnt.lib;rpcrt4.lib;bcrypt.lib;wintrust.lib;crypt32.lib;amsi.lib;taskschd.lib;comsupp.lib;ole32.lib;oleaut32.lib;shell32.lib;advapi32.lib;user32.lib;gdi32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
+      <UACExecutionLevel>RequireAdministrator</UACExecutionLevel>
+    </Link>
+    <Manifest>
+      <AdditionalManifestFiles>$(ProjectDir)assets\app.manifest %(AdditionalManifestFiles)</AdditionalManifestFiles>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="include\AI\TitanAutonomic.hpp" />
+    <ClInclude Include="include\AI\TitanMicroML.hpp" />
+    <ClInclude Include="include\AI\TitanNeuralUI.hpp" />
+    <ClInclude Include="include\Core\TitanAegis.hpp" />
+    <ClInclude Include="include\Core\TitanCrypto.hpp" />
+    <ClInclude Include="include\Core\TitanLogger.hpp" />
+    <ClInclude Include="include\Core\TitanSafety.hpp" />
+    <ClInclude Include="include\Core\TitanTypes.hpp" />
+    <ClInclude Include="include\Core\TitanVeritas.hpp" />
+    <ClInclude Include="include\Network\NetworkCore.hpp" />
+    <ClInclude Include="include\Network\TitanBond.hpp" />
+    <ClInclude Include="include\Network\TitanFusion.hpp" />
+    <ClInclude Include="include\Network\TitanSentinel.hpp" />
+    <ClInclude Include="include\Network\TitanShield.hpp" />
+    <ClInclude Include="include\UI\TitanBrandAdmin.hpp" />
+    <ClInclude Include="include\UI\TitanProUI.hpp" />
+    <ClInclude Include="include\UI\TitanUI.hpp" />
+    <ClInclude Include="include\UI\TitanV2Engine.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\NetworkCore.cpp" />
+    <ClCompile Include="src\TitanAegis.cpp" />
+    <ClCompile Include="src\TitanAutonomic.cpp" />
+    <ClCompile Include="src\TitanBond.cpp" />
+    <ClCompile Include="src\TitanFusion.cpp" />
+    <ClCompile Include="src\TitanNet.cpp" />
+    <ClCompile Include="src\TitanNeuralUI.cpp" />
+    <ClCompile Include="src\TitanSentinel.cpp" />
+    <ClCompile Include="src\TitanShield.cpp" />
+    <ClCompile Include="src\TitanV2Engine.cpp" />
+    <ClCompile Include="src\TitanVeritas.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="assets\Icon.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+</Project>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{10000000-0000-0000-0000-000000000001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{10000000-0000-0000-0000-000000000002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Core">
+      <UniqueIdentifier>{10000000-0000-0000-0000-000000000003}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\AI">
+      <UniqueIdentifier>{10000000-0000-0000-0000-000000000004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\Network">
+      <UniqueIdentifier>{10000000-0000-0000-0000-000000000005}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\UI">
+      <UniqueIdentifier>{10000000-0000-0000-0000-000000000006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{10000000-0000-0000-0000-000000000007}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\AI\TitanAutonomic.hpp">
+      <Filter>include\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AI\TitanMicroML.hpp">
+      <Filter>include\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AI\TitanNeuralUI.hpp">
+      <Filter>include\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Core\TitanAegis.hpp">
+      <Filter>include\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Core\TitanCrypto.hpp">
+      <Filter>include\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Core\TitanLogger.hpp">
+      <Filter>include\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Core\TitanSafety.hpp">
+      <Filter>include\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Core\TitanTypes.hpp">
+      <Filter>include\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Core\TitanVeritas.hpp">
+      <Filter>include\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Network\NetworkCore.hpp">
+      <Filter>include\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Network\TitanBond.hpp">
+      <Filter>include\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Network\TitanFusion.hpp">
+      <Filter>include\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Network\TitanSentinel.hpp">
+      <Filter>include\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Network\TitanShield.hpp">
+      <Filter>include\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UI\TitanBrandAdmin.hpp">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UI\TitanProUI.hpp">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UI\TitanUI.hpp">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UI\TitanV2Engine.hpp">
+      <Filter>include\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\NetworkCore.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanAegis.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanAutonomic.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanBond.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanFusion.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanNet.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanNeuralUI.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanSentinel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanShield.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanV2Engine.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TitanVeritas.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="assets\Icon.rc">
+      <Filter>assets</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
