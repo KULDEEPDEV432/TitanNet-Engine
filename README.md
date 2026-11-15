@@ -21,8 +21,7 @@
   <b>Pure Native C++20 Performance</b> • <b>Self-Provisioning 5-Brain AI</b> • <b>Smart-WAN Route Optimization</b> • <b>Real-Time Socket Observability</b>
 </p>
 
-<img width="1906" height="996" alt="Screenshot 2026-11-04 133342" src="https://github.com/user-attachments/assets/3f8bf73a-f22b-43dc-9d3c-e0aef8da81fe" />
-</div>
+<img width="1912" height="1011" alt="Screenshot 2026-11-15 150733" src="https://github.com/user-attachments/assets/51489fc5-83e1-4eca-9714-c81eb2263854" />
 
 ---
 
