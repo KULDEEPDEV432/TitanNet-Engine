@@ -37,7 +37,7 @@
 2. **Option 2 — Build & Run from Full C++20 Source Code:**
    For developers and security researchers who prefer full code inspection, the complete C++20 source code is provided in this repository. Simply clone or download the repository, open `TitanNet_v2.vcxproj` in **Visual Studio 2022/2026**, select **`Release | x64`**, press **`Ctrl + Shift + B`** to compile, and run the binary locally.
 3. **Option 3 — Legacy v1.0 Archive (Optional / Historical):**
-   If you specifically wish to test the older `v1.0` baseline, the legacy installer and portable ZIPs remain accessible under the `v1.0.0` tag on the [Releases](../../releases) page.
+   If you specifically wish to test the older `v1.0` baseline, the legacy installer and portable ZIPs remain accessible under the `v1.0.0` tag on the [Releases](https://github.com/KULDEEPDEV432/TitanNet-Engine/releases#release-v1.0.0) page.
 
 ---
 
